@@ -1,1 +1,6 @@
-char cFirstWord[] = "Hello World\n";
+#include <stdio.h>
+
+void main()
+{
+	char cFirstWord[] = "Hello World\n";
+}
