@@ -4,4 +4,3 @@ void main()
 {
 	char cFirstWord[] = "Hello World\n";
 }
-
